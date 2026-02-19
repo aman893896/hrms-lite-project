@@ -17,7 +17,7 @@ https://github.com/aman893896/hrms-lite-project
 
 
 # 📸 Features Gallery
-
+<td align="center"><b>Daily Attendance</b></td>
 <table>
 <tr>
 <td align="center"><b>Daily Attendance</b></td>

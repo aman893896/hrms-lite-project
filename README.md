@@ -15,6 +15,18 @@ https://hrms-lite-project-t6ix.onrender.com
 📂 GitHub Repository:
 https://github.com/aman893896/hrms-lite-project
 
+
+# 📸 Features Gallery
+
+<table>
+<tr>
+<td align="center"><b>Daily Attendance</b></td>
+<td align="center"><b>Employee Records</b></td>
+<td align="center"><b>System Overview</b></td>
+<td align="center"><b>Duplicateid Validation</b></td>
+<td align="centre"><b>Duplicateemail</b></td>
+</tr>
+
 📌 Project Overview
 
 HRMS Lite simulates a basic internal HR tool for managing:
